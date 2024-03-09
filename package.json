@@ -6,7 +6,5 @@
   "scripts": {
     "lint:html": "markuplint \"**/*.html\""
   },
-  "devDependencies": {
-    "markuplint": "4.2.0"
-  }
+  "devDependencies": {}
 }
